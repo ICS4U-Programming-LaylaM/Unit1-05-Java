@@ -3,7 +3,7 @@ import java.util.Scanner;
 /**
 * This program asks the user for the width and height of a board
 * and displays what the length should be in order to get a board
-* foot (144 inches^3).
+* foot (144 inches^3). Here is another sentence.
 *
 * @author Layla Michel
 * @version 1.0
